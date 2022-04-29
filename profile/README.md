@@ -7,7 +7,7 @@ Active projects:
 - [Dispenser Project](https://github.com/theogiraudet/Dispenser-API)
   - [Dispenser API](https://github.com/theogiraudet/Dispenser-API)
   - [Block Renderer](https://github.com/theogiraudet/Minecraft-Block-Renderer)
-- G-lib project
-  - G-lib
-  - G-lib Manager
+- [G-lib project](https://github.com/Gunivers/Glib)
+  - [G-lib](https://github.com/Gunivers/Glib)
+  - [G-lib Manager](https://github.com/Gunivers/Glib-Manager)
 - Gunibot
