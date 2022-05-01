@@ -1,4 +1,4 @@
-![](img/banner.png)
+![](https://raw.githubusercontent.com/Gunivers/.github/main/profile/img/banner.png)
 
  [Gunivers](https://raw.githubusercontent.com/Gunivers/.github/main/profile/img/banner.png) is a community which aims to bridge the gap between learning and entertainment, all through creative, 100% free and open-source projects. The community is managed by [Altearn](https://altearn.xyz), a non-profit educative association created in 2020.
 
