@@ -21,7 +21,7 @@ Gunivers is a growing community that always search for new creators! You can joi
 
 ![](img/Discord32x.png) [Discord](https://discord.gg/E8qq6tN) ![](img/Spacer.png) ![](img/Twitter32x.png) [Twitter](https://twitter.com/Gunivers_) ![](img/Spacer.png) ![](img/Youtube32x.png) [Youtube](https://www.youtube.com/c/Gunivers)
 
-[![](img/visit.png)](https://gunivers.net)
+[![](img/Visit.png)](https://gunivers.net)
 
 # Our services
 
