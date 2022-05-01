@@ -6,7 +6,7 @@
 
 ![](img/Scaff32x.png) [Scaffolding Rush](https://github.com/Gunivers/Scaffolding-Rush) : A minecraft PvP Bedwar map based on scaffolding mecanics
 
-![](img/Dispenser32x.png) [Dispenser Project](https://github.com/theogiraudet/Dispenser-API) : A minecraft content delivery tool for developers and website managers
+![](https://raw.githubusercontent.com/Gunivers/.github/main/profile/img/Dispenser32x.png) [Dispenser Project](https://github.com/theogiraudet/Dispenser-API) : A minecraft content delivery tool for developers and website managers
   - [Dispenser API](https://github.com/theogiraudet/Dispenser-API)
   - [Block Renderer](https://github.com/theogiraudet/Minecraft-Block-Renderer)
 
