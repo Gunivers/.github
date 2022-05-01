@@ -14,7 +14,7 @@
   - [G-lib](https://github.com/Gunivers/Glib)
   - [G-lib Manager](https://github.com/Gunivers/Glib-Manager)
 
-![](https://raw.githubusercontent.com/Gunivers/.github/main/profile/img/Glib32x.png) Gunibot : A discord application focused on the community needs
+![](https://raw.githubusercontent.com/Gunivers/.github/main/profile/img/Gunibot32x.png) Gunibot : A discord application focused on the community needs
 
 # Join hundreds of creators now!
 Gunivers is a growing community that always search for new creators! You can join us on:
