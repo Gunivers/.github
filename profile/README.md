@@ -19,10 +19,14 @@
 # Join hundreds of creators now!
 Gunivers is a growing community that always search for new creators! You can join us on:
 
+<div align="center">
+
 ![](https://raw.githubusercontent.com/Gunivers/.github/main/profile/img/Discord32x.png) [Discord](https://discord.gg/E8qq6tN) ![](https://raw.githubusercontent.com/Gunivers/.github/main/profile/img/Spacer.png) ![](https://raw.githubusercontent.com/Gunivers/.github/main/profile/img/Twitter32x.png) [Twitter](https://twitter.com/Gunivers_) ![](https://raw.githubusercontent.com/Gunivers/.github/main/profile/img/Spacer.png) ![](https://raw.githubusercontent.com/Gunivers/.github/main/profile/img/Youtube32x.png) [Youtube](https://www.youtube.com/c/Gunivers)
 
 [![](https://raw.githubusercontent.com/Gunivers/.github/main/profile/img/Visit.png)](https://gunivers.net)
 
+ </div>
+ 
 # Our services
 
 Need a solution to link your educative/awareness project with Minecraft and/or Discord? Please contact us at contact@altearn.xyz
