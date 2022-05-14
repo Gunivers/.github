@@ -15,7 +15,7 @@
   - [G-lib Manager](https://github.com/Gunivers/Glib-Manager)
 
 ![](https://raw.githubusercontent.com/Gunivers/.github/main/profile/img/Gunibot32x.png) Gunibot : A discord application focused on the community needs
-  - [JST](https://github.com/Gunivers/Gunibot-JST) : Gunibot managed by TrétinV3 (JS)
+  - [TrétinV3 (JS)](https://github.com/Gunivers/Gunibot-JST)
 
 # Join hundreds of creators now!
 Gunivers is a growing community that always search for new creators! You can join us on:
