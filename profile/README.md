@@ -14,8 +14,7 @@
   - [G-lib](https://github.com/Gunivers/Glib)
   - [G-lib Manager](https://github.com/Gunivers/Glib-Manager)
 
-![](https://raw.githubusercontent.com/Gunivers/.github/main/profile/img/Gunibot32x.png) Gunibot : A discord application focused on the community needs
-  - [TrétinV3 (JS)](https://github.com/Gunivers/Gunibot-JST)
+![](https://user-images.githubusercontent.com/12165342/184382083-3c25d7cb-4616-49b3-ac8a-aaa1ab746953.png) [Gipsy](https://github.com/Gunivers/Gipsy) : A modular discord bot base that aim to make implementation of features as easy as possible.
 
 # Join hundreds of creators now!
 Gunivers is a growing community that always search for new creators! You can join us on:
