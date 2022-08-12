@@ -10,7 +10,7 @@
   - [Dispenser API](https://github.com/Dispenser-Projects/Dispenser-API)
   - [Block Renderer](https://github.com/Dispenser-Projects/Minecraft-Block-Renderer)
 
-![](https://raw.githubusercontent.com/Gunivers/.github/main/profile/img/Glib32x.png) [Glibs project](https://github.com/Gunivers/Glibs) : A minecraft modular library datapack including plenty of tools for datapacker and mapmakers
+![](https://raw.githubusercontent.com/Gunivers/.github/main/profile/img/Glib32x.png) [Glibs Project](https://github.com/Gunivers/Glibs) : A minecraft modular library datapack including plenty of tools for datapacker and mapmakers
   - [Glibs](https://github.com/Gunivers/Glibs)
   - [Glibs Manager](https://github.com/Gunivers/Glib-Manager)
 
