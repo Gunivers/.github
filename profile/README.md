@@ -10,9 +10,9 @@
   - [Dispenser API](https://github.com/Dispenser-Projects/Dispenser-API)
   - [Block Renderer](https://github.com/Dispenser-Projects/Minecraft-Block-Renderer)
 
-![](https://raw.githubusercontent.com/Gunivers/.github/main/profile/img/Glib32x.png) [G-lib project](https://github.com/Gunivers/Glib) : A minecraft modular library datapack including plenty of tools for datapacker and mapmakers
-  - [G-lib](https://github.com/Gunivers/Glib)
-  - [G-lib Manager](https://github.com/Gunivers/Glib-Manager)
+![](https://raw.githubusercontent.com/Gunivers/.github/main/profile/img/Glib32x.png) [Glibs project](https://github.com/Gunivers/Glibs) : A minecraft modular library datapack including plenty of tools for datapacker and mapmakers
+  - [Glibs](https://github.com/Gunivers/Glibs)
+  - [Glibs Manager](https://github.com/Gunivers/Glib-Manager)
 
 ![](https://user-images.githubusercontent.com/12165342/184382083-3c25d7cb-4616-49b3-ac8a-aaa1ab746953.png) [Gipsy](https://github.com/Gunivers/Gipsy) : A modular discord bot base that aim to make implementation of features as easy as possible.
 
