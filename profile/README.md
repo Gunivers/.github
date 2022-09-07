@@ -15,6 +15,8 @@
   - [Glibs Manager](https://github.com/Gunivers/Glib-Manager)
 
 ![](https://user-images.githubusercontent.com/12165342/184382083-3c25d7cb-4616-49b3-ac8a-aaa1ab746953.png) [Gipsy](https://github.com/Gunivers/Gipsy) : A modular discord bot base that aim to make implementation of features as easy as possible.
+  - [Gipsy](https://github.com/Gunivers/Gipsy)
+  - [Gipsy Plugins](https://github.com/Gunivers/Gipsy-plugins)
 
 # Join hundreds of creators now!
 Gunivers is a growing community that always search for new creators! You can join us on:
