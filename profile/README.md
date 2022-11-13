@@ -4,19 +4,20 @@
 
 # Active community projects
 
-![](https://raw.githubusercontent.com/Gunivers/.github/main/profile/img/Scaff32x.png) [Scaffolding Rush](https://github.com/Gunivers/Scaffolding-Rush) : A minecraft PvP Bedwar map based on scaffolding mecanics
+### ![](https://raw.githubusercontent.com/Gunivers/.github/main/profile/img/Scaff32x.png) [Blazing Scaffoldings](https://github.com/Gunivers/Scaffolding-Rush) (previously Scaffolding Rush)
+A minecraft PvP Bedwar map based on scaffolding mecanics
 
-![](https://raw.githubusercontent.com/Gunivers/.github/main/profile/img/Dispenser32x.png) [Dispenser Project](https://github.com/Dispenser-Projects) : A minecraft content delivery tool for developers and website managers
-  - [Dispenser API](https://github.com/Dispenser-Projects/Dispenser-API)
-  - [Block Renderer](https://github.com/Dispenser-Projects/Minecraft-Block-Renderer)
-
-![](https://raw.githubusercontent.com/Gunivers/.github/main/profile/img/Glib32x.png) [Glibs Project](https://github.com/Gunivers/Glibs) : A minecraft modular library datapack including plenty of tools for datapacker and mapmakers
-  - [Glibs](https://github.com/Gunivers/Glibs)
-  - [Glibs Manager](https://github.com/Gunivers/Glib-Manager)
-
-![](https://user-images.githubusercontent.com/12165342/184382083-3c25d7cb-4616-49b3-ac8a-aaa1ab746953.png) [Gipsy](https://github.com/Gunivers/Gipsy) : A modular discord bot base that aim to make implementation of features as easy as possible.
-  - [Gipsy](https://github.com/Gunivers/Gipsy)
+### ![](https://user-images.githubusercontent.com/12165342/184382083-3c25d7cb-4616-49b3-ac8a-aaa1ab746953.png) [Gipsy](https://github.com/Gunivers/Gipsy)
+A modular discord bot base that aim to make implementation of features as easy as possible.
+  - [Gipsy (core)](https://github.com/Gunivers/Gipsy)
   - [Gipsy Plugins](https://github.com/Gunivers/Gipsy-plugins)
+
+### ![](https://raw.githubusercontent.com/Gunivers/.github/main/profile/img/Dispenser32x.png)  Dispenser Projects
+A set of tools for minecraft content creators
+  - ![](https://raw.githubusercontent.com/Gunivers/.github/main/profile/img/Dispenser32x.png) [Dispenser API](https://github.com/Dispenser-Projects/Dispenser-API)
+  - [Lectern (previously Block Renderer)](https://github.com/Dispenser-Projects/Minecraft-Block-Renderer) : A minecraft content delivery tool for developers and website managers
+  - ![Bookshelf](https://user-images.githubusercontent.com/12165342/201531093-fd3d35f3-74d6-4f21-867a-5aa41e6c5f98.png) [BookShelf](https://github.com/Gunivers/Glibs) : A minecraft modular library datapack including plenty of tools for datapacker and mapmakers
+  - [BookSeller (previously Glibs Manager)](https://github.com/Gunivers/Glib-Manager) : a web interface that allow to download only the module of BookShelf you want to use
 
 # Join hundreds of creators now!
 Gunivers is a growing community that always search for new creators! You can join us on:
