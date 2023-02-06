@@ -1,6 +1,8 @@
 ![](https://raw.githubusercontent.com/Gunivers/.github/main/profile/img/banner.png)
 
- [Gunivers](https://raw.githubusercontent.com/Gunivers/.github/main/profile/img/banner.png) is a community which aims to bridge the gap between learning and entertainment, all through creative, 100% free and open-source projects. The community is managed by [Altearn](https://altearn.xyz), a non-profit educative association created in 2020.
+ [Gunivers](https://raw.githubusercontent.com/Gunivers/.github/main/profile/img/banner.png) is a community which aims to use games as a door to enter in a world a creation by helping people to imagine, plan and realize their projects, getting by the way more and more skill and knowledge!
+ 
+ This community is leaded by [Altearn](https://altearn.xyz), a non-profit educative association created in 2020.
 
 # Active community projects
 
