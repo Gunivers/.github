@@ -4,6 +4,8 @@
 
 # Active community projects
 
+> **Note**
+> 
 > This list only contain the "Gunivers Original" projects (the ones that creators decided to fully put under the Gunivers name in order to help the community grow). More community projects are active on the [community's Discord server](https://discord.gg/E8qq6tN)!
 
 ### ![](https://raw.githubusercontent.com/Gunivers/.github/main/profile/img/Scaff32x.png) Blazing Scaffolding (previously Scaffolding Rush)
