@@ -15,11 +15,6 @@ A minecraft PvP Bedwar map based on scaffolding mecanics
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gunivers&repo=Blazing-Scaffolding)](https://github.com/Gunivers/Scaffolding-Rush)
 
-### ![](https://user-images.githubusercontent.com/12165342/184382083-3c25d7cb-4616-49b3-ac8a-aaa1ab746953.png) Gipsy
-A modular discord bot base that aim to make implementation of features as easy as possible.
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gunivers&repo=Gipsy)](https://github.com/Gunivers/Gipsy)
-
 ### ![](https://raw.githubusercontent.com/Gunivers/.github/main/profile/img/Dispenser32x.png)  Dispenser Projects
 A set of tools for minecraft content creators
 
@@ -30,7 +25,7 @@ A modular library for datapackers, focused on accessibility!
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gunivers&repo=Glibs)](https://github.com/Gunivers/Glibs)   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gunivers&repo=Glib-Manager)](https://github.com/Gunivers/Glib-Manager)
 
-### ![Sans titre](https://user-images.githubusercontent.com/12165342/225870112-ba1195d0-49b6-4f53-b383-96a0e8a36b0f.png) Trapped Chest
+### ![Trapped Chest](https://user-images.githubusercontent.com/12165342/225870112-ba1195d0-49b6-4f53-b383-96a0e8a36b0f.png) Trapped Chest
 A GUI tool to generate vanilla minecraft inventory menu in datapacks!
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gunivers&repo=trappedChest)](https://github.com/Gunivers/trappedChest)
