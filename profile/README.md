@@ -20,7 +20,7 @@ And also on [Twitter](https://twitter.com/Gunivers_) and [Youtube](https://www.y
 # Current "Gunivers Original" projects
 
 > ### **What is it?**
-> Every creator can ask to put their projects as "Gunivers Original" and get advantage of some privileges that the community can't give to every projects. Admission to Gunivers Originals is limited to projects that can help the community to grow and depend on the amount of work in progress Gunivers Original projects and theamount ofavailable people to work on.
+> Every creator can ask to put their projects as "Gunivers Original" and get advantage of some privileges that the community can't give to every projects. Admission to Gunivers Originals is limited to projects that can help the community to grow and depend on the number of active Gunivers Original projects and the amount ofavailable people to work on.
 
 More community projects are active on the [community's Discord server](https://discord.gg/E8qq6tN)!
 
