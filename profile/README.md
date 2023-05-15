@@ -26,28 +26,28 @@ More community projects are active on the [community's Discord server](https://d
 
 ---
 
-### ![](https://raw.githubusercontent.com/Gunivers/.github/main/profile/img/Scaff32x.png) Blazing Scaffolding (previously Scaffolding Rush)
+## 🌋 Blazing Scaffolding (previously Scaffolding Rush)
 A minecraft PvP Bedwar map based on scaffolding mecanics
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gunivers&repo=Blazing-Scaffolding)](https://github.com/Gunivers/Scaffolding-Rush)
 
 ---
 
-### ![](https://raw.githubusercontent.com/Gunivers/.github/main/profile/img/Dispenser32x.png)  Dispenser Projects
+## 🏧 Dispenser Projects
 A set of tools for minecraft content creators
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dispenser-Projects&repo=Dispenser-API)](https://github.com/Dispenser-Projects/Dispenser-API)   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dispenser-Projects&repo=Minecraft-Block-Renderer)](https://github.com/Dispenser-Projects/Minecraft-Block-Renderer)
  
  ---
  
-### ![Bookshelf](https://user-images.githubusercontent.com/12165342/201531093-fd3d35f3-74d6-4f21-867a-5aa41e6c5f98.png) Bookshelf (previously Glibs)
+## 📚 Bookshelf (previously Glibs)
 A modular library for datapackers, focused on accessibility!
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gunivers&repo=Glibs)](https://github.com/Gunivers/Glibs)   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gunivers&repo=Glib-Manager)](https://github.com/Gunivers/Glib-Manager)
 
 ---
 
-### ![Trapped Chest](https://user-images.githubusercontent.com/12165342/225870112-ba1195d0-49b6-4f53-b383-96a0e8a36b0f.png) Trapped Chest
+## 🧰 Trapped Chest
 A GUI tool to generate vanilla minecraft inventory menu in datapacks!
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gunivers&repo=trappedChest)](https://github.com/Gunivers/trappedChest)
