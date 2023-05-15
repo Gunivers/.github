@@ -3,26 +3,25 @@
  [Gunivers](https://raw.githubusercontent.com/Gunivers/.github/main/profile/img/banner.png) is a community which aims to use games as a door to enter in a world a creation by helping people to imagine, plan and realize their projects, getting by the way more and more skill and knowledge!
  
  This community is leaded by [Altearn](https://altearn.xyz), a non-profit educative association created in 2020.
-
-# Join hundreds of creators now!
-Gunivers is a growing community that always search for new creators! You can join us on:
+ 
+ Need a numercial or gaming solution for a pedagogical/awareness purpose? Please contact our association at contact@altearn.xyz
 
 <div align="center">
-
-![](https://raw.githubusercontent.com/Gunivers/.github/main/profile/img/Discord32x.png) [Discord](https://discord.gg/E8qq6tN) ![](https://raw.githubusercontent.com/Gunivers/.github/main/profile/img/Spacer.png) ![](https://raw.githubusercontent.com/Gunivers/.github/main/profile/img/Twitter32x.png) [Twitter](https://twitter.com/Gunivers_) ![](https://raw.githubusercontent.com/Gunivers/.github/main/profile/img/Spacer.png) ![](https://raw.githubusercontent.com/Gunivers/.github/main/profile/img/Youtube32x.png) [Youtube](https://www.youtube.com/c/Gunivers)
-
-[![](https://raw.githubusercontent.com/Gunivers/.github/main/profile/img/Visit.png)](https://gunivers.net)
-
- </div>
  
-# Association services
+# Join hundreds of creators now!
+Gunivers is a growing community that always search for new creators! You can find us on:
 
-Need a solution to link your educative/awareness project with Minecraft and/or Discord? Please contact us at contact@altearn.xyz
+ 
+ <a href="https://discord.gg/E8qq6tN"><img src="img/Discord.png" width=200></a>   <a href="https://gunivers.net/"><img src="img/Website.png" width=200></a>
+
+And also on [Twitter](https://twitter.com/Gunivers_) and [Youtube](https://www.youtube.com/c/Gunivers)
+
+</div>
 
 # Current Gunivers Original projects
 
-## **What is it?**
-Every creator can ask to put their projects as "Gunivers Original" and get advantage of some privileges that the community can't give to every projects. Admission to Gunivers Originals is limited to projects that can help the community to grow and depend on the amount of work in progress Gunivers Original projects and theamount ofavailable people to work on.
+> ### **What is it?**
+> Every creator can ask to put their projects as "Gunivers Original" and get advantage of some privileges that the community can't give to every projects. Admission to Gunivers Originals is limited to projects that can help the community to grow and depend on the amount of work in progress Gunivers Original projects and theamount ofavailable people to work on.
 
 More community projects are active on the [community's Discord server](https://discord.gg/E8qq6tN)!
 
