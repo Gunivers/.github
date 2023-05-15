@@ -11,8 +11,7 @@
 # Join hundreds of creators now!
 Gunivers is a growing community that always search for new creators! You can find us on:
 
- 
- <a href="https://discord.gg/E8qq6tN"><img src="img/Discord.png" width=200></a>   <a href="https://gunivers.net/"><img src="img/Website.png" width=200></a>
+[![Discord button](img/Discord.png)](https://discord.gg/E8qq6tN)   [![Discord button](img/Website.png)](https://gunivers.net)
 
 And also on [Twitter](https://twitter.com/Gunivers_) and [Youtube](https://www.youtube.com/c/Gunivers)
 
