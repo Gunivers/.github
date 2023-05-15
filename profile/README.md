@@ -12,7 +12,7 @@ A la recherche d'une solution numérique / basé sur des jeux dans un but pédag
 Gunivers est une communauté grandissante qui est constamment à la recherche de nouveaux créateurs !
 Gunivers is a growing community that always search for new creators! You can find us on:
 
-<a href=""><img src="https://github.com/Gunivers/.github/blob/069c0c4ccf9bfe94af06ac4cd238a51c9fd01abf/profile/img/Discord.png" width=200></img></a> <a href="https://gunivers.net"><img src="https://github.com/Gunivers/.github/blob/069c0c4ccf9bfe94af06ac4cd238a51c9fd01abf/profile/img/Website.png" width=200></img></a>
+<a href=""><img src="https://raw.githubusercontent.com/Gunivers/.github/main/profile/img/Discord.png" width=200></img></a> <a href="https://gunivers.net"><img src="https://raw.githubusercontent.com/Gunivers/.github/main/profile/img/Website.png" width=200></img></a>
 
 Tu peux aussi nous trouver sur [Twitter](https://twitter.com/Gunivers_) et [Youtube](https://www.youtube.com/c/Gunivers)
 
