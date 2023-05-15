@@ -1,8 +1,6 @@
 ![](https://raw.githubusercontent.com/Gunivers/.github/main/profile/img/banner.png)
 
-[Gunivers](https://raw.githubusercontent.com/Gunivers/.github/main/profile/img/banner.png) is a community which aims to use games as a door to enter in a world a creation by helping people to imagine, plan and realize their projects, getting by the way more and more skill and knowledge!
-
-est une communauté qui vise à utiliser les jeux comme porte d'entré dans le monde de la création. Nous nous focalison sur l'entre-aide afin de permett à chacun de mieux imaginer, plannifier et réaliser les projets qui l'intéresse, le tout en aquierant au passage un grand nombre de connaissance et compétences !
+[Gunivers](https://raw.githubusercontent.com/Gunivers/.github/main/profile/img/banner.png) est une communauté qui vise à utiliser les jeux comme porte d'entré dans le monde de la création. Nous nous focalison sur l'entre-aide afin de permett à chacun de mieux imaginer, plannifier et réaliser les projets qui l'intéresse, le tout en aquierant au passage un grand nombre de connaissance et compétences !
  
 Cette communauté est gérée par [Altearn](https://altearn.xyz), une association à but non-lucratif créée en 2020.
 
